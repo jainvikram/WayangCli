@@ -109,7 +109,7 @@ const uint64_t MAX_BLOCK_REWARD                              = (UINT64_C(2) * pa
 const uint64_t REWARD_INCREASE_INTERVAL                      = (UINT64_C(2640));
 
 const char     CRYPTONOTE_NAME[]                             = "sikka";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff0001904e029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101430050628b17afbf5cb94104142aedf5b4fd2370e4cd4c02571e9c4e8f64da42";
 const uint32_t GENESIS_NONCE                                 = 70;
 const uint64_t GENESIS_TIMESTAMP                             = 1513040990;
 
